@@ -147,9 +147,10 @@ body {
 }
 
 body#bg-img {
-    background: url(../img/bg.jpg);
+    background: url(../img/demo1.gif);
     background-attachment: fixed;
     background-size: cover;
+  
 }
 
 body#bg-img:after {

@@ -9,6 +9,7 @@
   "author": "Sri Varun",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "^4.14.1",
+    "particlesjs": "^2.2.3"
   }
 }
